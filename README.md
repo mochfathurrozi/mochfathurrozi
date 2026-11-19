@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://decozzfx.vercel.app](https://decozzfx.vercel.app)
 
-- 💬 Ask me about **Frontend Engineer**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **decozzfx@gmail.com**
 
